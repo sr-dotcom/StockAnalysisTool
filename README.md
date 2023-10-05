@@ -41,6 +41,7 @@ Please note that it is important that the moving averages cross each other in or
 When the signal is neither **buy** nor **sell**, it is classified as **hold**. If you already own the stock, keep it and if you don't then don't buy it now.
 
 **Data Set**
+
 The dataset provided here has been extracted from the NSE website. The Stock price data provided is from 1-Jan-2015 to 31-July-2018 for six stocks Eicher Motors, Hero, Bajaj Auto, TVS Motors, Infosys and TCS.
 
  
