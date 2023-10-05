@@ -40,5 +40,5 @@ Please note that it is important that the moving averages cross each other in or
 
 When the signal is neither **buy** nor **sell**, it is classified as **hold**. If you already own the stock, keep it and if you don't then don't buy it now.
 
-![Moving Average]([https://www.openai.com/assets/images/logo.png](https://cdn.upgrad.com/UpGrad/temp/6cd1e9a9-e35c-4d45-9ae1-c11c90245e26/Assignment.png)https://cdn.upgrad.com/UpGrad/temp/6cd1e9a9-e35c-4d45-9ae1-c11c90245e26/Assignment.png)
+![Moving Average](https://cdn.upgrad.com/UpGrad/temp/6cd1e9a9-e35c-4d45-9ae1-c11c90245e26/Assignment.png)
 
